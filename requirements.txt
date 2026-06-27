@@ -1,0 +1,7 @@
+streamlit
+deepface
+fer
+vaderSentiment
+opencv-python
+numpy
+Pillow
